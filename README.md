@@ -8,7 +8,7 @@ A Python command-line tool that simulates the central dogma of molecular biology
 
 ## 👨‍🔬 Developed by
 **Ali Noruzi Roshan**  
-GitHub: [github.com/ItsAnr/CodeToLife](https://github.com/ItsAnr/CodeToLife)
+GitHub: [github.com/ItsAnr](https://github.com/ItsAnr)
 
 ---
 
